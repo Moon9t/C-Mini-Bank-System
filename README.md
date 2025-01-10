@@ -42,7 +42,7 @@ This is a simple banking system implemented in C++. The program allows users to 
    ```
 3. Compile the program:
    ```bash
-   g++ main.cpp -o banking-system
+   g++ bank.cpp -o banking-system
    ```
 4. Run the program:
    ```bash
