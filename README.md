@@ -26,7 +26,7 @@ This is a simple banking system implemented in C++. The program allows users to 
 - Admin authentication with username and password.
 
 ## Files
-- `main.cpp`: Contains the complete implementation of the banking system.
+- `bank.cpp`: Contains the complete implementation of the banking system.
 - `transactions_<account_number>.txt`: Stores transaction history for individual accounts.
 - `accounts.dat`: Serialized storage of account information.
 - `bank.log`: Logs all actions performed in the system.
