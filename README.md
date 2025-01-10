@@ -34,11 +34,11 @@ This is a simple banking system implemented in C++. The program allows users to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Moon9t/cpp-banking-system.git
+   git clone https://github.com/Moon9t/c-banking-system.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cpp-banking-system
+   cd c-banking-system
    ```
 3. Compile the program:
    ```bash
